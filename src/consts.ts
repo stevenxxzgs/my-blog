@@ -10,11 +10,11 @@ export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
 export const USER_NAME = "Steven";
-export const USER_SITE = "https://frosti.saroprock.com"; // At the same time, this is also the site retrieved by the i18n configuration.
+export const USER_SITE = "https://my-blog-theta-one.vercel.app/blog"; // At the same time, this is also the site retrieved by the i18n configuration.
 export const USER_AVATAR = "/profile.webp";
 
 // Server and transition settings
-export const SERVER_URL = "https://demo.saroprock.com";
+export const SERVER_URL = "https://my-blog-theta-one.vercel.app/blog";
 
 // Theme settings
 export const DAISYUI_THEME = {
@@ -92,13 +92,13 @@ export const socialIcons = [
     svg: "ri:cup-line",
   },
   {
-    href: "https://github.com/EveSunMaple",
+    href: "https://github.com/stevenxxzgs",
     ariaLabel: "Github",
     title: "Github",
     svg: "ri:github-line",
   },
   {
-    href: "https://space.bilibili.com/438392347",
+    href: "",
     ariaLabel: "BiliBili",
     title: "BiliBili",
     svg: "ri:bilibili-line",
