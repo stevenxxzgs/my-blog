@@ -5,7 +5,7 @@
 export const SITE_LANG = "en";
 export const SITE_TAB = "Steven";
 export const SITE_TITLE = "Steven";
-export const SITE_DESCRIPTION = "A blog template";
+export const SITE_DESCRIPTION = "A blog for Steven";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
